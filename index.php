@@ -38,25 +38,25 @@
         // Função para carregar os dados do servidor usando AJAX
         function loadDataFromServer() {
             $.ajax({
-                url: 'data.php', // Altere o nome do arquivo PHP, se necessário
+                url: 'data.php',
                 type: 'GET',
                 dataType: 'json',
                 success: function(data) {
-                    // Processar os dados recebidos do servidor
+                    // Processa os dados recebidos do servidor
                     var meses = [];
                     var sensoriamento_ldr = [];
                     var allValues = [];
 
                     data.forEach(function(value) {
-                        meses.push(moment(value.date_time).format("MMM Do, h:mm:ss"));
+                        meses.push(moment(value.date_time).format("MMM Do, HH:mm:ss"));
                         sensoriamento_ldr.push(value.sensoriamento_ldr);
                         allValues.push({
-                            meses: moment(value.date_time).format("MMM Do, h:mm:ss"),
+                            meses: moment(value.date_time).format("MMM Do, HH:mm:ss"),
                             sensoriamento_ldr: value.sensoriamento_ldr
                         });
                     });
 
-                    // Atualizar o gráfico e a tabela com os dados carregados
+                    // Atualiza o gráfico e a tabela com os dados carregados
                     updateChart(meses, sensoriamento_ldr);
                     updateTable(allValues);
                 },
@@ -68,7 +68,7 @@
 
         // Função para atualizar o gráfico com os novos dados
         function updateChart(meses, sensoriamento_ldr) {
-            // Verifique se há um gráfico existente e o destrua antes de criar um novo
+            // Verifica se há um gráfico existente e o destrói antes de criar um novo
             if (myChart) {
                 myChart.destroy();
             }
@@ -79,7 +79,7 @@
                 data: {
                     labels: meses,
                     datasets: [{
-                        label: 'Turbidimetro',
+                        label: 'Turbidez',
                         data: sensoriamento_ldr,
                         borderWidth: 1,
                         tension: 0,
@@ -120,17 +120,17 @@
                         field: "meses"
                     },
                     {
-                        title: "Valores",
+                        title: "Turbidez",
                         field: "sensoriamento_ldr"
                     },
                 ],
             });
         }
 
-        // Carregar os dados do servidor quando a página for carregada
+        // Carrega os dados do servidor quando a página for carregada
         loadDataFromServer();
 
-        // Atualizar os dados a cada 5 segundos (5000 milissegundos)
+        // Atualiza os dados a cada 5 segundos (5000 milissegundos)
         setInterval(loadDataFromServer, 5000);
     </script>
     <footer>
