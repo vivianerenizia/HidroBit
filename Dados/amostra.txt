@@ -1,0 +1,1849 @@
+[
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "569"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "569"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "570"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "568"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "569"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "165"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "163"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "16"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "150"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "112"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "184"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "144"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "208"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "259"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "241"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "258"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "251"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "254"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "242"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "203"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "173"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "223"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "218"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "238"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "254"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "148"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "170"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "140"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "146"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "150"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "257"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "289"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "373"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "317"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "325"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "325"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "318"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "686"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "395"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "317"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "654"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "673"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "681"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "538"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "568"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "621"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "590"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "347"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "586"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "589"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "595"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "590"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "588"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "589"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "595"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "593"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "590"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "589"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "589"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "589"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "590"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "600"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "599"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "595"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "600"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "595"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "595"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "598"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "596"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "592"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "593"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "597"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "591"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "604"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "592"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "591"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "592"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "593"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "592"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "590"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "586"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "585"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "587"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "593"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "613"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "588"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "594"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "597"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "585"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "597"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "606"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "592"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "597"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "598"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "602"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "606"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "610"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "597"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "609"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "610"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "607"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "610"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "609"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "608"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "610"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "606"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "607"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "606"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "607"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "605"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "605"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "606"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "607"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "609"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "608"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "608"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "608"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "607"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "609"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "609"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "618"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "516"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "288"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "329"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "197"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "311"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "138"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "129"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "494"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "228"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "446"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "137"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "489"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "478"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "484"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "494"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "503"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "516"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "516"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "521"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "526"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "529"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "530"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "533"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "534"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "533"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "533"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "534"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "536"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "536"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "532"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "547"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "502"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "523"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "367"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "341"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "317"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "326"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "339"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "326"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "282"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "319"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "304"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "291"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "286"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "240"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "300"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "306"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "334"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "335"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "337"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "209"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "206"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "290"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "291"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "294"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "294"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "293"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "293"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "294"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "283"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "333"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "346"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "346"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "369"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "374"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "408"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "423"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "421"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "424"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "367"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "311"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "313"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "317"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "204"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "304"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "276"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "294"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "292"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "295"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "294"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "293"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "310"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "296"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "284"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "299"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "336"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "332"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "373"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "418"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "433"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "434"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "440"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "442"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "445"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "452"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "447"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "451"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "452"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "448"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "453"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "457"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "453"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "455"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "458"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "434"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "431"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "432"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "432"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "430"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "430"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "431"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "432"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "445"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "446"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "445"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "444"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "444"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "447"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "445"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "446"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "446"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "446"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "446"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "448"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "448"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "445"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "444"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "444"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "444"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "443"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "342"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "345"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "343"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "418"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "414"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "429"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "436"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "438"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "438"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "438"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "437"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "437"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "436"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "434"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "434"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "434"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "434"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "435"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "435"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "436"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "436"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "435"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "436"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "432"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "431"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "430"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "428"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "427"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "423"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "422"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "423"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "420"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "425"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "424"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "428"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "428"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "380"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "314"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "399"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "353"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "404"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "449"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "472"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "553"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "657"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "326"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "639"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "594"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "589"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "333"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "464"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "555"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "684"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "671"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "660"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "661"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "603"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "381"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "314"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "176"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "280"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "316"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "319"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "290"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "441"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "406"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "282"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "443"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "466"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "525"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "528"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "528"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "526"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "522"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "521"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "496"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "322"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "395"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "301"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "296"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "386"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "294"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "288"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "286"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "289"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "294"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "296"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "333"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "295"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "316"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "316"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "314"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "306"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "314"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "311"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "313"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "311"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "292"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "289"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "289"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "286"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "288"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "291"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "288"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "290"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "291"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "292"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "292"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "292"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "306"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "295"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "315"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "316"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "322"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "317"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "320"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "320"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "329"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "333"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "335"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "341"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "327"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "319"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "315"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "315"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "316"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "318"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "317"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "315"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "310"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "311"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "311"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "313"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "290"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "287"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "286"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "284"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "288"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "286"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "289"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "290"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "286"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "288"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "289"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "364"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "334"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "333"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "357"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "360"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "355"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "355"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "352"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "346"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "352"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "356"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "358"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "355"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "355"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "353"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "352"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "340"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "358"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "351"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "348"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "349"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "350"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "349"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "350"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "351"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "352"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "348"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "342"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "329"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "330"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "332"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "330"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "327"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "330"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "325"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "331"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "343"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "330"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "331"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "330"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "339"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "334"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "332"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "332"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "332"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "332"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "332"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "349"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "358"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "347"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "348"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "343"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "356"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "346"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "348"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "347"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "343"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "342"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "353"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "363"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "362"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "348"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "312"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "327"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "339"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "342"
+    },
+    {
+        "date_time": "%2023-%06-%27 %14:%Jun:%th",
+        "sensoriamento_ldr": "339"
+    }]
