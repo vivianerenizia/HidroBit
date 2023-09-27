@@ -1,0 +1,23 @@
+{
+  "name": "hidrobit-tcc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivianerenizia/HidroBit-TCC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivianerenizia/HidroBit-TCC/issues"
+  },
+  "homepage": "https://github.com/vivianerenizia/HidroBit-TCC#readme",
+  "dependencies": {
+    "chart.js": "^4.4.0",
+    "chartjs-plugin-zoom": "^2.0.1"
+  }
+}

@@ -1,0 +1,133 @@
+/* styles.css */
+/* Estilos para o cabeçalho */
+header {
+  background-color: #ccc;
+  padding: 18px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  box-shadow: 0 2px 4px #1093eb; /* Adicione uma sombra no cabeçalho */
+  border-bottom: 2px solid #1093eb; /* Adicione uma borda inferior com a mesma cor para o relevo */
+}
+
+header h1 {
+  color: #1093eb; /* Cor do texto do cabeçalho para torná-lo visível no fundo azul */
+  margin: 0; /* Remova a margem padrão do h1 */
+  padding: 0; /* Remova o preenchimento padrão do h1 */
+  text-align: center; /* Centralize o texto horizontalmente */
+  display: inline-block; /* Adicione esta linha */
+  width: 100%; /* Adicione esta linha */
+}
+
+/* Estilos para a logo no cabeçalho */
+header img {
+  max-width: 150px; /* Defina o novo tamanho máximo da imagem da logo */
+  max-height: auto; /* Mantenha a proporção original da imagem */
+  margin-right: 20px; /* Adicione margem à direita da logo para separá-la do texto */
+}
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+
+/* Adicione estilos para a classe container */
+.container {
+  display: flex;
+  margin: 20px; /* Espaço nas laterais */
+}
+
+
+.left-panel {
+  width: 35%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.left-panel img {
+  width: 400px;
+  height: 200px;
+}
+
+/* Ajuste a largura do painel direito (.right-panel) conforme necessário */
+.right-panel {
+  width: 65%; /* Por exemplo, aumentando para 65% para dar mais espaço ao gráfico */
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.left-panel #tabela {
+  width: 500px; /* Largura atual da tabela */
+  height: 300px;
+}
+
+.left-panel img {
+  margin-top: 23px; /* Adicione espaço entre o cabeçalho e a tabela */
+  width: 500px; /* Largura atual da imagem */
+  height: auto;
+}
+
+/* Estilos para as células da tabela */
+.tabulator-cell {
+  padding: 5px; /* Adicione um espaçamento interno nas células */
+  border: 1px solid #ccc; /* Adicione uma borda para separar as células */
+}
+
+/* Estilize as células da primeira coluna (Data) de forma diferente */
+.tabulator-cell[data-field="meses"] {
+  font-weight: bold; /* Faça o texto da coluna "Data" em negrito */
+  background-color: #f0f0f0; /* Adicione uma cor de fundo leve */
+}
+
+#tabela {
+  margin-top: 15px; /* Adicione espaço entre o cabeçalho e a tabela */
+}
+
+/* Estilizar o cabeçalho da primeira coluna (Data) */
+div .tabulator-col.tabulator-sortable[data-field="meses"] {
+  background-color: #1093EB; /* Cor de fundo para a coluna "Data" */
+  color: #333; /* Cor do texto no cabeçalho */
+  font-weight: bold; /* Deixa o texto em negrito */
+  /* Adicione mais estilos conforme necessário */
+}
+
+/* Estilos para linhas pares */
+#tabela .tabulator-row:nth-child(even) {
+  background-color: #aaddff; /* Adicione uma cor de fundo para linhas pares */
+}
+
+/* Estilos para linhas ímpares */
+#tabela .tabulator-row:nth-child(odd) {
+  background-color: #ffffff; /* Mantenha um fundo branco para linhas ímpares */
+}
+
+#tabela .tabulator-page.active {
+  color: #1093EB; /* Cor do texto no botão ativo (branco, para contrastar com o fundo azul) */
+}
+/* Estilos para o rodapé */
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: #1093EB;
+  color: #fff;
+  padding: 8px;
+  text-align: center;
+}
+
+
+/* Estilize o link do rodapé (opcional) */
+footer a {
+  color: #fff; /* Cor do link no rodapé */
+  text-decoration: none; /* Remova a sublinhado do link */
+}
+
+footer a:hover {
+  text-decoration: underline; /* Adicione sublinhado ao passar o mouse sobre o link */
+}
+
