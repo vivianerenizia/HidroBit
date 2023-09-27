@@ -131,7 +131,7 @@
         loadDataFromServer();
 
         // Atualizar os dados a cada 5 segundos (5000 milissegundos)
-        setInterval(loadDataFromServer, 200000);
+        setInterval(loadDataFromServer, 5000);
     </script>
     <footer>
     <p>&copy; 2023 HidroBit</p>
