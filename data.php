@@ -14,7 +14,7 @@ if ($conn->connect_error) {
 }
 
 // Consulta SQL para buscar os dados da tabela
-$sql = "SELECT date_time, sensoriamento_ldr FROM turbidimetro";
+$sql = "SELECT date_time, sensoriamento_ldr, turbidez FROM turbidimetro";
 
 // Executar a consulta
 $result = $conn->query($sql);

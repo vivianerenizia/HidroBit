@@ -45,19 +45,22 @@
                     // Processa os dados recebidos do servidor
                     var meses = [];
                     var sensoriamento_ldr = [];
+                    var turbidez = [];
                     var allValues = [];
 
                     data.forEach(function(value) {
                         meses.push(moment(value.date_time).format("MMM Do, HH:mm:ss"));
                         sensoriamento_ldr.push(value.sensoriamento_ldr);
+                        turbidez.push(value.turbidez);
                         allValues.push({
                             meses: moment(value.date_time).format("MMM Do, HH:mm:ss"),
-                            sensoriamento_ldr: value.sensoriamento_ldr
+                            sensoriamento_ldr: value.sensoriamento_ldr,
+                            turbidez: value.turbidez
                         });
                     });
 
                     // Atualiza o gráfico e a tabela com os dados carregados
-                    updateChart(meses, sensoriamento_ldr);
+                    updateChart(meses, sensoriamento_ldr, turbidez);
                     updateTable(allValues);
                 },
                 error: function(error) {
@@ -67,7 +70,7 @@
         }
 
         // Função para atualizar o gráfico com os novos dados
-        function updateChart(meses, sensoriamento_ldr) {
+        function updateChart(meses, sensoriamento_ldr, turbidez) {
             // Verifica se há um gráfico existente e o destrói antes de criar um novo
             if (myChart) {
                 myChart.destroy();
@@ -80,12 +83,18 @@
                     labels: meses,
                     datasets: [{
                         label: 'Turbidez',
-                        data: sensoriamento_ldr,
+                        data: turbidez,
                         borderWidth: 1,
                         tension: 0,
                     }]
                 },
                 options: {
+                    scales: {
+                        y: {
+                            suggestedMax: 1000,
+                            beginAtZero: true
+                        }
+                    },
                     fill: true,
                     plugins: {
                         zoom: {
@@ -120,8 +129,12 @@
                         field: "meses"
                     },
                     {
-                        title: "Turbidez",
+                        title: "Resistência",
                         field: "sensoriamento_ldr"
+                    },
+                    {
+                        title: "Turbidez",
+                        field: "turbidez"
                     },
                 ],
             });
