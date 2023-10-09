@@ -1,16 +1,29 @@
-# tcc-turbidez
+# **Configuração do projeto HidroBit (Interface)**
 
-Para rodar o projeto é necessario ter o `Node` instalado 
-- Depois instale o gerenciador de pactes `NPM` no computador
+Esse projeto monitora a turbidez da água usando um sensor LDR, um Arduino e apresenta os dados através de uma interface web. Aqui está um guia passo a passo para configurar e rodar o projeto:
 
-entre na raiz do projeto e digite `npm i` no terminal
+### **Pré-requisitos**:
+1. **Node.js**: Certifique-se de ter o Node.js instalado em sua máquina. Caso não tenha, [baixe-o aqui](https://nodejs.org/).
 
-O código arduino recebe os valores medidos pelo sensor LDR e envia para o banco de dados.
+2. **NPM**: Após instalar o Node.js, instale o gerenciador de pacotes NPM (embora a versão mais recente do Node.js já venha com o NPM incluído por padrão).
 
-- Utilizo o Xampp para subir a aplicação do banco de dados mysql e o php.
-- O SQL para criação do banco e inserção dos dados está na pasta de Dados (create_database.sql), pode ser importado na interface do myphpadmin.
+3. **XAMPP**: Utilizamos o XAMPP para servir a aplicação que utiliza o banco de dados MySQL e PHP. [Baixe o XAMPP aqui](https://www.apachefriends.org/pt_br/index.html).
 
-Após subir as aplicações de forma local:
-- Front da monitoração: http://localhost/hidrobit/index.php
-- Banco de dados: http://localhost/phpmyadmin/
-  - Vá na aba SQL, cole o código de create_database.sql e execute. O banco será preenchido com os dados já existentes.
+### **Instruções de Configuração**:
+
+1. **Instalação de Dependências**:
+    - Navegue até a raiz do projeto via terminal.
+    - Digite e execute o comando `npm i` para instalar todas as dependências necessárias.
+
+2. **Configuração do Banco de Dados**:
+    - Inicie o XAMPP e ative os serviços Apache e MySQL.
+    - Acesse o phpMyAdmin através do link: http://localhost/phpmyadmin/
+    - Na aba SQL, copie e cole o código contido no arquivo `create_database.sql`, localizado na pasta "Dados" do seu projeto.
+    - Execute o código para criar e preencher o banco de dados.
+
+3. **Executando o projeto**:
+    - Com o XAMPP em execução e o banco de dados configurado, você pode acessar a interface de monitoramento através do link: http://localhost/hidrobit/index.php
+
+---
+
+Agora você deve estar pronto para visualizar e trabalhar com os dados coletados pelo sensor LDR e enviados pelo seu Arduino.
