@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="styles.css">
     <!-- Load d3.js -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
@@ -21,12 +21,12 @@
     </header>
 
     <div class="container">
-    <div class="left-panel">
-        <div id="tabela-container">
-            <div id="tabela"></div>
+        <div class="left-panel">
+            <div id="tabela-container">
+                <div id="tabela"></div>
+            </div>
+            <img src="./Logos/1.png" alt="Logo" class="logo">
         </div>
-        <img src="./Logos/1.png" alt="Logo" class="logo">
-    </div>
         <div class="right-panel">
             <canvas id='myChart'></canvas>
         </div>
@@ -34,56 +34,19 @@
 
     <script>
         var myChart;
+        var firstLoad = true; // Flag para verificar se é o primeiro carregamento
+        var lastAddedDate = null; // Armazena a última data adicionada
 
-        // Função para carregar os dados do servidor usando AJAX
-        function loadDataFromServer() {
-            $.ajax({
-                url: 'data.php',
-                type: 'GET',
-                dataType: 'json',
-                success: function(data) {
-                    // Processa os dados recebidos do servidor
-                    var meses = [];
-                    var sensoriamento_ldr = [];
-                    var turbidez = [];
-                    var allValues = [];
-
-                    data.forEach(function(value) {
-                        meses.push(moment(value.date_time).format("MMM Do, HH:mm:ss"));
-                        sensoriamento_ldr.push(value.sensoriamento_ldr);
-                        turbidez.push(value.turbidez);
-                        allValues.push({
-                            meses: moment(value.date_time).format("MMM Do, HH:mm:ss"),
-                            sensoriamento_ldr: value.sensoriamento_ldr,
-                            turbidez: value.turbidez
-                        });
-                    });
-
-                    // Atualiza o gráfico e a tabela com os dados carregados
-                    updateChart(meses, sensoriamento_ldr, turbidez);
-                    updateTable(allValues);
-                },
-                error: function(error) {
-                    console.error('Erro ao carregar dados do servidor:', error);
-                }
-            });
-        }
-
-        // Função para atualizar o gráfico com os novos dados
-        function updateChart(meses, sensoriamento_ldr, turbidez) {
-            // Verifica se há um gráfico existente e o destrói antes de criar um novo
-            if (myChart) {
-                myChart.destroy();
-            }
-
+        // Função para inicializar o gráfico
+        function initializeChart() {
             const ctx = document.getElementById('myChart');
             myChart = new Chart(ctx, {
                 type: 'line',
                 data: {
-                    labels: meses,
+                    labels: [], // Inicialmente vazio
                     datasets: [{
                         label: 'Turbidez',
-                        data: turbidez,
+                        data: [], // Inicialmente vazio
                         borderWidth: 1,
                         tension: 0,
                     }]
@@ -113,7 +76,74 @@
             });
         }
 
-        // Função para atualizar a tabela com os novos dados
+        // Função para adicionar dados incrementalmente ao gráfico
+        function addDataToChart(meses, sensoriamento_ldr, turbidez) {
+            const lastMonth = meses[meses.length - 1];
+            const lastTurbidez = turbidez[turbidez.length - 1];
+
+            myChart.data.labels.push(lastMonth);
+            myChart.data.datasets[0].data.push(lastTurbidez);
+
+            // Para manter o gráfico com um tamanho fixo (por exemplo, 50 pontos), remova os pontos antigos
+            if(myChart.data.labels.length > 50) {
+                myChart.data.labels.shift();
+                myChart.data.datasets[0].data.shift();
+            }
+
+            myChart.update();
+        }
+
+        // Função para adicionar todos os dados ao gráfico na primeira vez
+        function setInitialDataToChart(meses, turbidez) {
+            myChart.data.labels = meses;
+            myChart.data.datasets[0].data = turbidez;
+            myChart.update();
+        }
+
+        function loadDataFromServer() {
+            $.ajax({
+                url: 'data.php',
+                type: 'GET',
+                dataType: 'json',
+                success: function(data) {
+                    var meses = [];
+                    var sensoriamento_ldr = [];
+                    var turbidez = [];
+                    var allValues = [];
+
+                    data.forEach(function(value) {
+                        meses.push(moment(value.date_time).format("MMM Do, HH:mm:ss"));
+                        sensoriamento_ldr.push(value.sensoriamento_ldr);
+                        turbidez.push(value.turbidez);
+                        allValues.push({
+                            meses: moment(value.date_time).format("MMM Do, HH:mm:ss"),
+                            sensoriamento_ldr: value.sensoriamento_ldr,
+                            turbidez: value.turbidez
+                        });
+                    });
+
+                    const latestDataDate = moment(data[data.length - 1].date_time).format("MMM Do, HH:mm:ss");
+                    if (lastAddedDate === latestDataDate) {
+                        return;  // If the latest data is the same as the last added, don't update the chart
+                    }
+
+                    if (firstLoad) {
+                        setInitialDataToChart(meses, turbidez);
+                        firstLoad = false;
+                    } else {
+                        addDataToChart(meses, sensoriamento_ldr, turbidez);
+                    }
+
+                    lastAddedDate = latestDataDate;  // Update the last added date
+
+                    updateTable(allValues);
+                },
+                error: function(error) {
+                    console.error('Erro ao carregar dados do servidor:', error);
+                }
+            });
+        }
+
         function updateTable(tableData) {
             var table = new Tabulator("#tabela", {
                 data: tableData,
@@ -140,14 +170,16 @@
             });
         }
 
-        // Carrega os dados do servidor quando a página for carregada
+        // Inicializar o gráfico e carregar os dados quando a página for carregada
+        initializeChart();
         loadDataFromServer();
 
-        // Atualiza os dados a cada 5 segundos (5000 milissegundos)
-        setInterval(loadDataFromServer, 5000);
+        // Continuar atualizando a cada 5 segundos
+        setInterval(loadDataFromServer, 1000);
     </script>
+
     <footer>
-    <p>&copy; 2023 HidroBit</p>
+        <p>&copy; 2023 HidroBit</p>
     </footer>
 </body>
 
