@@ -174,8 +174,8 @@
         initializeChart();
         loadDataFromServer();
 
-        // Continuar atualizando a cada 5 segundo
-        setInterval(loadDataFromServer, 5000);
+        // Continuar atualizando a cada 3 segundos
+        setInterval(loadDataFromServer, 3000);
     </script>
 
     <footer>
