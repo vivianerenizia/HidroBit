@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,13 +11,16 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tabulator/5.1.0/js/tabulator.min.js"></script>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/tabulator/5.1.0/css/tabulator.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <title>HidroBit Monitor</title>
 </head>
 
 <body>
     <header>
+        <div class="header-overlay"></div>
         <img src="./Logos/2.png" alt="Logo">
-        <h1>Monitoramento de turbidez em tempo real</h1>
+        <h1>Real-Time Turbidity Monitoring</h1>
     </header>
 
     <div class="container">
@@ -25,7 +28,7 @@
             <div id="tabela-container">
                 <div id="tabela"></div>
             </div>
-            <img src="./Logos/1.png" alt="Logo" class="logo">
+            
         </div>
         <div class="right-panel">
             <canvas id='myChart'></canvas>
