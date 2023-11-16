@@ -2,30 +2,42 @@
 
 /* Estilos globais */
 body {
-  min-height: 100vh;
+  font-family: 'Montserrat', sans-serif;
   margin: 0;
   overflow: hidden;
-  background-color: #f1f1f1;
+  background-color: black;
 }
 
 /* Estilos para o cabeçalho */
 header {
-  background-color: #ccc;
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(to right, #7fc1ec, #143E63);
   padding: 18px;
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  box-shadow: 0 2px 4px #1093eb;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   border-bottom: 2px solid #1093eb;
+  position: relative;
+}
+
+.header-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 header h1 {
-  color: #1093eb;
+  color: #fff;
   margin: 0;
   padding: 0;
   text-align: center;
   display: inline-block;
   width: 100%;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
 }
 
 header img {
@@ -37,7 +49,7 @@ header img {
 /* Estilos para a classe container */
 .container {
   display: flex;
-  margin: 20px;
+  margin: 15px; /* Reduzir as margens para dar mais espaço */
 }
 
 .left-panel {
@@ -46,14 +58,16 @@ header img {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
+  align-items: center; /* Centralizar itens horizontalmente */
 }
 
-.right-panel {
-  width: 65%;
-  margin: 0;
-  padding: 0;
+.left-panel #tabela {
+  width: 500px; /* Tornar a tabela mais responsiva */
+  max-height: 550px; /* Limitar a largura máxima da tabela */
   height: 100%;
-  overflow: auto;
+  background-color: #f9f9f9; /* Adicionar um fundo mais suave */
+  border-radius: 8px; /* Arredondar as bordas */
+  box-shadow: 0 2px 4px #1093eb; /* Adicionar sombra */
 }
 
 .left-panel img {
@@ -61,10 +75,19 @@ header img {
   height: 200px;
 }
 
-.left-panel #tabela {
-  width: 500px;
-  height: 300px;
+/* Estilo do Painel Direito (Gráfico) */
+.right-panel {
+  width: 70%;
+  margin: 0;
+  padding: 0;
+  height: 600px;
+  overflow: hidden; /* Ocultar a barra de rolagem no gráfico */
+  display: flex;
+  border-radius: 8px; /* Arredondar as bordas */
+  background-color: white;
+  box-shadow: 0 2px 4px #1093eb; /* Adicionar sombra */
 }
+
 
 #tabela {
   margin-top: 15px;
@@ -102,7 +125,7 @@ footer {
   position: absolute;
   bottom: 0;
   width: 100%;
-  background-color: #1093EB;
+  background: linear-gradient(to left, #7fc1ec, #143E63);
   color: #fff;
   padding: 8px;
   text-align: center;
