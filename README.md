@@ -1,4 +1,8 @@
-# **Configuração do projeto HidroBit (Interface)**
+# Desenvolvimento de um Sistema de Monitoramento de Turbidez
+
+## Trabalho de Conclusão de Curso II desenvolvido para a Universidade Federal de Viçosa Campus Rio Paranaíba.
+
+## **Configuração do projeto HidroBit (Interface)**
 
 Esse projeto monitora a turbidez da água usando um sensor LDR, um Arduino e apresenta os dados através de uma interface web. Aqui está um guia passo a passo para configurar e rodar o projeto:
 
@@ -27,3 +31,9 @@ Esse projeto monitora a turbidez da água usando um sensor LDR, um Arduino e apr
 ---
 
 Agora você deve estar pronto para visualizar e trabalhar com os dados coletados pelo sensor LDR e enviados pelo seu Arduino.
+
+Alunas:
+
+> Viviane Renizia Mendes Silva
+
+> Stefani Kaline Leonel Dias
